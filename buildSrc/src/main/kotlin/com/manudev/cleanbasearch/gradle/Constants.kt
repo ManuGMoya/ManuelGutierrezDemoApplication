@@ -84,6 +84,6 @@ object Libraries {
 
     // TEST
     const val junit4 = "junit:junit:${Versions.junit4}"
-    const val junit_impl = "androidx.test.ext:${Versions.junit_impl}"
+    const val junit_impl = "androidx.test.ext:junit:${Versions.junit_impl}"
     const val espresso = "androidx.test.espresso:espresso-core:${Versions.espresso}"
 }
